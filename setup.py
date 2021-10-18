@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 setup(
-    name='mypackages',
-    version='0.1.2',
+    name='packages',
+    version='0.0.11',
     description='ecommerce',
     long_description=open('README.txt').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
