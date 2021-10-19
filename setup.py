@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 setup(
-    name='packages',
+    name='package',
     version='0.0.11',
     description='ecommerce',
     long_description=open('README.txt').read() + '\n\n' +
